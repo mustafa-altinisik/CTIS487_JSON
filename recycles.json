@@ -1,55 +1,64 @@
 {
-    "recycle_activities": [
-      {
-        "image_url": "https://example.com/recycle1.jpg",
-        "title": "Paper Recycling",
-        "description": "Recycle used paper products such as newspapers, magazines, and cardboard to reduce waste and conserve resources."
-      },
-      {
-        "image_url": "https://example.com/recycle2.jpg",
-        "title": "Plastic Recycling",
-        "description": "Dispose of plastic containers, bottles, and packaging in designated recycling bins to promote sustainability and minimize pollution."
-      },
-      {
-        "image_url": "https://example.com/recycle3.jpg",
-        "title": "Glass Recycling",
-        "description": "Collect glass bottles and jars separately for recycling, enabling the production of new glass products while conserving energy."
-      },
-      {
-        "image_url": "https://example.com/recycle4.jpg",
-        "title": "Metal Recycling",
-        "description": "Recycle metals like aluminum and steel to reduce the need for raw material extraction and decrease environmental impact."
-      },
-      {
-        "image_url": "https://example.com/recycle5.jpg",
-        "title": "Battery Recycling",
-        "description": "Dispose of used batteries at recycling centers to prevent hazardous materials from entering landfills and facilitate the recovery of valuable metals."
-      },
-      {
-        "image_url": "https://example.com/recycle6.jpg",
-        "title": "Electronic Waste Recycling",
-        "description": "Recycle old electronic devices, such as computers and cell phones, to recover valuable materials and prevent harmful chemicals from polluting the environment."
-      },
-      {
-        "image_url": "https://example.com/recycle7.jpg",
-        "title": "Composting",
-        "description": "Convert food scraps and yard waste into nutrient-rich compost to enrich soil, reduce landfill waste, and support sustainable gardening."
-      },
-      {
-        "image_url": "https://example.com/recycle8.jpg",
-        "title": "Textile Recycling",
-        "description": "Donate or recycle old clothing and textiles to extend their lifespan, reduce waste, and support sustainable fashion practices."
-      },
-      {
-        "image_url": "https://example.com/recycle9.jpg",
-        "title": "Tire Recycling",
-        "description": "Properly dispose of used tires at recycling facilities to prevent them from becoming breeding grounds for pests and mosquitoes and utilize the rubber for various applications."
-      },
-      {
-        "image_url": "https://example.com/recycle10.jpg",
-        "title": "Kitchen Waste Recycling",
-        "description": "Implement a composting system for kitchen scraps like vegetable peels and coffee grounds, reducing landfill waste and creating nutrient-rich soil."
-      }
-    ]
-  }
-  
+  "recycle_activities": [
+    {
+      "id": 1,
+      "image_url": "https://github.com/mustafa-altinisik/CTIS487_JSON/raw/main/images/1.png",
+      "title": "Paper Recycling",
+      "description": "Recycle used paper products such as newspapers, magazines, and cardboard to reduce waste and conserve resources."
+    },
+    {
+      "id": 2,
+      "image_url": "https://github.com/mustafa-altinisik/CTIS487_JSON/raw/main/images/2.png",
+      "title": "Plastic Recycling",
+      "description": "Dispose of plastic containers, bottles, and packaging in designated recycling bins to promote sustainability and minimize pollution."
+    },
+    {
+      "id": 3,
+      "image_url": "https://github.com/mustafa-altinisik/CTIS487_JSON/raw/main/images/3.png",
+      "title": "Glass Recycling",
+      "description": "Collect glass bottles and jars separately for recycling, enabling the production of new glass products while conserving energy."
+    },
+    {
+      "id": 4,
+      "image_url": "https://github.com/mustafa-altinisik/CTIS487_JSON/raw/main/images/4.png",
+      "title": "Metal Recycling",
+      "description": "Recycle metals like aluminum and steel to reduce the need for raw material extraction and decrease environmental impact."
+    },
+    {
+      "id": 5,
+      "image_url": "https://github.com/mustafa-altinisik/CTIS487_JSON/raw/main/images/5.png",
+      "title": "Battery Recycling",
+      "description": "Dispose of used batteries at recycling centers to prevent hazardous materials from entering landfills and facilitate the recovery of valuable metals."
+    },
+    {
+      "id": 6,
+      "image_url": "https://github.com/mustafa-altinisik/CTIS487_JSON/raw/main/images/6.png",
+      "title": "Electronic Waste Recycling",
+      "description": "Recycle old electronic devices, such as computers and cell phones, to recover valuable materials and prevent harmful chemicals from polluting the environment."
+    },
+    {
+      "id": 7,
+      "image_url": "https://github.com/mustafa-altinisik/CTIS487_JSON/raw/main/images/7.png",
+      "title": "Composting",
+      "description": "Convert food scraps and yard waste into nutrient-rich compost to enrich soil, reduce landfill waste, and support sustainable gardening."
+    },
+    {
+      "id": 8,
+      "image_url": "https://github.com/mustafa-altinisik/CTIS487_JSON/raw/main/images/8.png",
+      "title": "Textile Recycling",
+      "description": "Donate or recycle old clothing and textiles to extend their lifespan, reduce waste, and support sustainable fashion practices."
+    },
+    {
+      "id": 9,
+      "image_url": "https://github.com/mustafa-altinisik/CTIS487_JSON/raw/main/images/9.png",
+      "title": "Tire Recycling",
+      "description": "Properly dispose of used tires at recycling facilities to prevent them from becoming breeding grounds for pests and mosquitoes and utilize the rubber for various applications."
+    },
+    {
+      "id": 10,
+      "image_url": "https://github.com/mustafa-altinisik/CTIS487_JSON/raw/main/images/10.png",
+      "title": "Kitchen Waste Recycling",
+      "description": "Implement a composting system for kitchen scraps like vegetable peels and coffee grounds, reducing landfill waste and creating nutrient-rich soil."
+    }
+  ]
+}
